@@ -1,2 +1,3 @@
-# docker-web-app
-Basic web app to test docker.
+# Nodejs web app
+
+Express app with handlebars view engine.
